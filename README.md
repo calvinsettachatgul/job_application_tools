@@ -5,3 +5,12 @@
 # make sure the print_cover is executable for you
 # after you download the repo cd into the root and execute:
 # chmod ug+x print_cover
+
+# make this file executable and pass it the 4 arguments below as strings.
+# example if this file were an executable called print_cover
+# execute:
+# print_cover "Full Stack Engineer" "Company Name" "My reasons" "My skills"
+# enclose in "" if any spaces in the arguments
+# write a template called cover in the same directory
+# place __postion __company __reason __skills in the template where you want to perform sed string substitution
+# the file will be output to the command line as well as copied to clipboard. A cover_log file will also be generated
