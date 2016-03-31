@@ -10,6 +10,7 @@
 ### example if this file were an executable called print_cover
 ### execute:
 >  print_cover "Full Stack Engineer" "Company Name" "My reasons" "My skills"
+
 ### enclose in "" if any spaces in the arguments
 ### write a template called cover in the same directory
 ### place __postion __company __reason __skills in the template where you want to perform sed string substitution
