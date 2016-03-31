@@ -38,4 +38,5 @@
 ### place __postion __company __reason __skills in the template where you want to perform sed string substitution
 ### the file will be output to the command line as well as copied to clipboard so you can control-V your text into a form. A cover_log file will also be generated that prints the date along with the arguments for each execution.
 
+### I've also noticed that the script will not work with "/" and "!" in any arguments so there has to be some escape characters placed in there if you want to use these symbols.
 
