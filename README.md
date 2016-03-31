@@ -31,7 +31,7 @@
 
 >  Also, recently built this application2 with this tech.
 
->  I feel that my experience with ***My skills***, as well as my passion for building maintainable scalable software along the entire stack could potentially be a great match with what you’re looking for in a ***Full Stack Engineer*** at ***Company Name***.
+>  I feel that my experience with ***My skills***, as well as my passion for building maintainable scalable software could potentially be a great match with what you’re looking for in a ***Full Stack Engineer*** at ***Company Name***.
 
 
 >  Thanks for your time,
