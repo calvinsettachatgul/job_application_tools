@@ -1,6 +1,6 @@
 # job_application_tools
 
-## print_cover is a command line bash script that takes 4 arguments and uses the cover file as a template to copy a cover letter to your clipboard and generate a cover_log file.
+## print_cover is a bash script that takes 4 arguments and uses the cover file as a template to copy a cover letter to your clipboard and generate a cover_log file.
 
 ### Make sure the print_cover file is executable.
 ### After you download the repo cd into the root and execute:
