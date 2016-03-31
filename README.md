@@ -10,9 +10,13 @@
 ### example if this file were an executable called print_cover(provided in this repo)
 ### execute:
 >  ./print_cover "***Full Stack Engineer***" "***Company Name***" "***My reasons***" "***My skills***"
+
 >  ***Full Stack Engineer***
+
 >  ***Company Name***
+
 >  ***My reasons***
+
 >  ***My skills***
 
 
