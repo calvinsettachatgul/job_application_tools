@@ -44,3 +44,5 @@
 
 ### I've also noticed that the script will not work with "/" and "!" in any arguments so there has to be some escape characters placed in there if you want to use these symbols.
 
+###  Let me know if you have any questions calvin.settachatgul@gmail.com
+
