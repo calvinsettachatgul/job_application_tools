@@ -40,7 +40,7 @@
 ### Enclose arguments in "" if there are any spaces in the arguments.
 ### Write a template called cover (provided as a sample in this repo) in the same directory.
 ### place __postion __company __reason __skills in the template where you want to perform sed string substitution.
-### The file will be output to the command line as well as copied to clipboard so you can command-v your text into a form. A cover_log file will also be generated that prints the date along with the arguments for each execution of print_cover.
+### The file will be output to the command line as well as copied to clipboard so you can paste (command-v) your text into a form. A cover_log file will also be generated that prints the date along with the arguments for each execution of print_cover.
 
 ### I've also noticed that the script will not work with "/" and "!" in any arguments. So escape sequences need to be used if you want to use those punctuation marks.
 
