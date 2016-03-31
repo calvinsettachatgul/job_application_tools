@@ -49,4 +49,4 @@ echo ${skills} >> cover_log
 echo "******************************************************************"
 echo "******************************************************************"
 
-cat /Users/calvins/google\ drive/work/resume/cover | sed "s/__position/${position}/g" | sed "s/__company/${company}/g" | sed "s/__reason/${reason}/g" | sed "s/__skills/${skills}/g" | tee >(pbcopy)
+cat ./cover | sed "s/__position/${position}/g" | sed "s/__company/${company}/g" | sed "s/__reason/${reason}/g" | sed "s/__skills/${skills}/g" | tee >(pbcopy)
