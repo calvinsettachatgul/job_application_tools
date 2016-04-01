@@ -39,12 +39,12 @@ fi
 echo
 echo
 echo "appended date position company reason skills to cover_log"
-echo "-------------------------------------------------------------------------" >> cover_log
-date >> cover_log
-echo ${position} >> cover_log
-echo ${company} >> cover_log
-echo ${reason} >> cover_log
-echo ${skills} >> cover_log  
+echo "-------------------------------------------------------------------------" >> cover_log.txt
+date >> cover_log.txt
+echo ${position} >> cover_log.txt
+echo ${company} >> cover_log.txt
+echo ${reason} >> cover_log.txt
+echo ${skills} >> cover_log.txt
 
 echo "******************************************************************"
 echo "******************************************************************"
